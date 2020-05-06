@@ -25,19 +25,19 @@ a, em, strong {
 
 h1 {
     font-family: 'Signika', sans-serif;
-    color: #6d2b65;
+    color: #268B9B;
 }
 
 h1 a {
-    color: #6d2b65;
+    color: #268B9B;
 }
 
 h1 a:hover {
-    color: #7a4083;
+    color: #2F9283;
 }
 
 h2, h3, h4, h5, h6 {
-    color:#020e49;
+    color:#26539B;
 }
 
 hr {
